@@ -19,6 +19,6 @@ The result picture will be saved in result.png.
 
 $ agci "csv data filename"
 
-$ agci Sample\ GC\ data\ 1\ pt\ acetone\ 1\ pt\ cyclohexane.csv
+$ agci sample1.csv
 
 <img src='https://github.com/y-takefuji/agci/raw/main/result.png' width=640 hight=480>
